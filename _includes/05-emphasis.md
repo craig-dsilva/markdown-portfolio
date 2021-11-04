@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__HTML__
+__CSS__
+__Javascript__
+_React_
+_NODE_
